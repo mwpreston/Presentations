@@ -1,6 +1,8 @@
 # Presentations
 Repository which holds publicly available presentations and associated code.
 
+## 2020-04-17 CodeStock 2020 [Slides]() | [Code]()
+
 ## 2020-02-04 Insight Engineering Summit [Slides]() | [Code]()
 
 ## 2020-01-21 Toronto VMUG / HashiCorp User Group [Slides]() | [Code]()
