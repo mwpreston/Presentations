@@ -40,3 +40,4 @@ $credential | Export-CLIXML -Path c:\abr\clustercreds.xml
 ```
 New-AsBuiltReport -Report Rubrik.CDM -Target 192.168.150.121 -Credential (Import-CliXML -Path C:\abr\clustercreds.xml) -Format HTML -Orientation Portrait -OutputPath C:\abr -ReportConfigPath C:\abr\abr.json -AsBuiltConfigPath C:\abr\config.json
 ```
+Any feedback, issues, pull requests are gladly accepted on the projects current development repository [https://github.com/mwpreston/AsBuiltReport.Rubrik.CDMhttps://github.com/mwpreston/AsBuiltReport.Rubrik.CDM](https://github.com/mwpreston/AsBuiltReport.Rubrik.CDM)
