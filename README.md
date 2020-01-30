@@ -6,7 +6,8 @@ Repository which holds publicly available presentations and associated code.
 ## 2020-02-04 Insight Engineering Summit [Slides]() | [Roxie](https://github.com/rubrikinc/use-case-roxie) | [As Built Install Details](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/AsBuiltBetaInstall.md) | [As Built Core Project](https://www.asbuiltreport.com/) | [As Built Rubrik Project](https://github.com/mwpreston/AsBuiltReport.Rubrik.CDM)
 Presentation delivered with partners from Insight around Rubrik Build including demos of some popular use-cases featured on the site.
 
-## 2020-01-21 Toronto VMUG / HashiCorp User Group [Slides]() | [Code]()
+## 2020-01-21 Toronto VMUG / HashiCorp User Group [Slides](https://github.com/mwpreston/Presentations/blob/master/2020-01-21-VMUG-HUG/VMUG-HUG.pptx) 
+Simple intro to the joint Toronto VMware and HashiCorp usergroup.
 
 ## 2019-11-06 VMworld Europe [Slides](https://github.com/mwpreston/Presentations/blob/master/2019-11-06-VMworldEU/HBI3519BES%20-%20Transforming%20Your%20Enterprise%20Architecture%20with%20Rubrik%20and%20VMware.pptx) 
 Presentation with an awesome Rubrik customer about Rubrik Build and vRA integration!
