@@ -2,13 +2,13 @@ Currently the Rubrik As Built Report Module is under development and not yet ava
 
 The steps below provide a high-level overview of how to get the beta/devel versions of everything up and running
 
-1. Install Devel branch of Rubrik PowerShell SDK
+    1. Install Devel branch of Rubrik PowerShell SDK
 
-```git clone https://github.com/rubrikinc/rubrik-sdk-for-powershell.git```
+    ```git clone https://github.com/rubrikinc/rubrik-sdk-for-powershell.git```
 
-Run Install-Rubrik.ps1
+    Run Install-Rubrik.ps1
 
-1. Install AsBuiltReport
+    1. Install AsBuiltReport
 
 ```Install-Module AsBuiltReport```
 
