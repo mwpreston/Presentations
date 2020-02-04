@@ -3,7 +3,7 @@ Repository which holds publicly available presentations and associated code.
 
 ## 2020-04-17 CodeStock 2020 [Slides]() | [Code]()
 
-## 2020-02-04 Insight Engineering Summit [Slides](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/Insight-Roxie.pptx) | [Roxie](https://github.com/rubrikinc/use-case-roxie) | [As Built Install Details](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/AsBuiltBetaInstall.md) | [As Built Core Project](https://www.asbuiltreport.com/) | [As Built Rubrik Project](https://github.com/mwpreston/AsBuiltReport.Rubrik.CDM)
+## 2020-02-04 Insight Engineering Summit [Slides](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/Insight-Roxie.pdf) | [Roxie](https://github.com/rubrikinc/use-case-roxie) | [As Built Install Details](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/AsBuiltBetaInstall.md) | [As Built Core Project](https://www.asbuiltreport.com/) | [As Built Rubrik Project](https://github.com/mwpreston/AsBuiltReport.Rubrik.CDM)
 Presentation delivered with partners from Insight around Rubrik Build including demos of some popular use-cases featured on the site.
 
 ## 2020-01-21 Toronto VMUG / HashiCorp User Group [Slides](https://github.com/mwpreston/Presentations/blob/master/2020-01-21-VMUG-HUG/VMUG-HUG.pptx) 
