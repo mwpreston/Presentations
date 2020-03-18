@@ -1,7 +1,7 @@
 # Presentations
 Repository which holds publicly available presentations and associated code.
 
-## 2020-03-18 Diving Deeper into PowerShell [Slides](2020-03-18-PowerShellWebinar/Diving-Deeper-into-PowerShell-Rubrik-Webinar.pdf) | [Code](2020-03-18-PowerShellWebinar/)
+## 2020-03-18 Diving Deeper into PowerShell [Slides](2020-03-18-PowerShellWebinar/Diving-Deeper-into-PowerShell-Rubrik-Webinar.pdf) | [Code](2020-03-18-PowerShellWebinar/code/)
 Presentation delivered with Matt Elliot diving into PowerShell and Rubrik.
 
 ## 2020-02-04 Insight Engineering Summit [Slides](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/Insight-Roxie.pdf) | [Roxie](https://github.com/rubrikinc/use-case-roxie) | [As Built Install Details](https://github.com/mwpreston/Presentations/blob/master/2020-02-04-InsightSummitDenver/AsBuiltBetaInstall.md) | [As Built Core Project](https://www.asbuiltreport.com/) | [As Built Rubrik Project](https://github.com/mwpreston/AsBuiltReport.Rubrik.CDM)
